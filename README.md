@@ -9,7 +9,7 @@
         <img src="http://img.shields.io/:license-apache-brightgreen.svg" >
     </a>
     <a>
-        <img src="https://img.shields.io/badge/JDK-1.6+-green.svg" >
+        <img src="https://img.shields.io/badge/JDK-1.8+-green.svg" >
     </a>
     <a>
         <img src="https://img.shields.io/badge/IDEA-2024.0+-green.svg" >
