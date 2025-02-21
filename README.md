@@ -22,8 +22,10 @@
 
 ### 二、支持的场景
 
-1、支持从控制台中提取Preparing和Parameters进行拼接成完整的SQL语句
+- 支持对单个接口内执行的SQL进行拦截，自动拼接参数后输出到控制台，可以直接执行
 
-2、支持从拦截的方法内提取执行SQL
+<img src="./picture/参数拼接完整，可直接执行.png" width="240" alt="">
+<img src="./picture/增强这个接口.png" width="240" alt="">
+<img src="./picture/完整的SQL输出.png" width="240" alt="">
 
-3、支持拦截使用了@Mapper注解的接口方法
+- 支持拦截使用了@Mapper注解的接口方法
