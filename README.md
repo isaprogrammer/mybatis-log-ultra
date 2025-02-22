@@ -1,7 +1,7 @@
 <h2 align="center">mybatis-log-ultra</h2>
 
 <p align="center">
-	<strong>一切为了效率</strong>
+	<strong>为了高效，为了便捷</strong>
 </p>
 
 <p align="center">
