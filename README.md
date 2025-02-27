@@ -59,15 +59,27 @@
 
 <table>
     <tr>
-        <td><img src="./picture/带mapper注解的.jpg" width="240" alt=""></td>
+        <td><img src="./picture/带mapper注解的.jpg" width="480" alt=""></td>
     </tr>
 </table>
 
 ---
 
-### 3、如果你配置了mybatis log日志输出，默认也会替你进行拼接
+### 3、普通方法也是可以进行拦截的（排除了java.,javax......等一些工具类的增强）
 
-### 4、快速复制SQL到粘贴板
+---
+
+### 4、如果你配置了mybatis log日志输出，默认也会替你进行拼接
+
+---
+
+### 5、快速复制SQL到粘贴板（无需拖拽选中，直接右键即可）
+
+<table>
+    <tr>
+        <td><img src="./picture/复制SQL.jpg" width="480" alt=""></td>
+    </tr>
+</table>
 
 ---
 
@@ -81,15 +93,20 @@
 
 `大家如果有更好的建议，欢迎留下您的足迹🦶，👏👏👏👏👏👏`
 
+`这是一个shi一般`
+
 ## 五、功能规划中。。。
 
-#### 1、提供更多的快捷操作，例如：格式化、预览、复制、搜索..等等，尽可能都在当前页面就能完成
+#### 1、提供更多的快捷操作，例如：格式化、预览、复制、搜索..等等，尽可能在当前页面完成
 
-#### 2、远程环境也可以动态增强，输出完整的sql到文件，类似是arthas的使用方式
+#### 2、远程环境也可以动态增强，输出完整的sql到文件，类似是arthas的使用方式，让本地和远程拥有相似的体验
 
 ```shell
-java -jar mybatis-log-ultra-agent.jar '${pid}' '${class}' '${method}'
+# 类似这样的命令
+java -jar mybatis-log-ultra-boot.jar '${pid}' '${class}' '${method}'
 ```
 
 #### 3、打印mybatis log只是一个开始，下个支持的组件大概率是Elasticsearch
+
+## 六、一个粗糙的开始，就是好的开始
 
