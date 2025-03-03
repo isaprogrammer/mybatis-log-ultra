@@ -22,6 +22,8 @@
 
 `为什么是ultra？因为小米su7 ultra`
 
+`距离插件发布上架才两周时间，这只是一个开始，如果你也觉得这是一个不错的想法，请留下您的使用体验和建议，衷心感谢！🙏🙏🙏🙏`
+
 ## 二、要求
 
 <p>
@@ -102,6 +104,5 @@ java -jar mybatis-log-ultra-boot.jar '${pid}' '${class}' '${method}'
 #### 3、打印mybatis log只是一个开始，下个支持的组件大概率是Elasticsearch
 
 ## 六、一个粗糙的开始，就是好的开始
-
 
 
