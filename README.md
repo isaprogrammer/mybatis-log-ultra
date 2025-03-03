@@ -18,7 +18,7 @@
 
 ## 一、简介
 
-`在运行的本地项目中提取完整的SQL语句还是太繁琐了，需要配置、拼接，如果日志滚动的太快还难以定位，开发这款插件的目的，就是为了节约点提取SQL的时间`
+`提取SQL还是太繁琐了，需要配置、拼接、日志滚动太快，希望这款插件能为你节约点时间`
 
 `为什么是mybatis log ultra？因为小米su7 ultra`
 
@@ -51,8 +51,6 @@
 
 ## 四、操作手册
 
----
-
 ### 1、默认情况下，项目启动即自动拦截所有的@RestController注解的类
 <table>
     <tr>
@@ -74,8 +72,6 @@
     </tr>
 </table>
 
----
-
 ### 4、普通方法也是独立进行输出
 
 <table>
@@ -84,8 +80,6 @@
     </tr>
 </table>
 
----
-
 ### 5、@Mapper注解的接口也同样支持
 
 <table>
@@ -93,8 +87,6 @@
         <td><img src="./picture/带mapper注解的.jpg" width="960" alt=""></td>
     </tr>
 </table>
-
----
 
 ## 五、功能规划中。。。
 
@@ -110,4 +102,6 @@ java -jar mybatis-log-ultra-boot.jar '${pid}' '${class}' '${method}'
 #### 3、打印mybatis log只是一个开始，下个支持的组件大概率是Elasticsearch
 
 ## 六、一个粗糙的开始，就是好的开始
+
+
 
