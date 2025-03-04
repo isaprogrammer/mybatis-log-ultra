@@ -41,7 +41,7 @@
     </a>
 </p>
 
-## 三、目前市面上已有插件未能解决的痛点问题
+## 三、你的痛点问题
 
 1、需要添加mybatis的配置
 
@@ -101,8 +101,5 @@
 java -jar mybatis-log-ultra-boot.jar '${pid}' '${class}' '${method}'
 ```
 
-#### 3、打印mybatis log只是一个开始，下个支持的组件大概率是Elasticsearch
-
 ## 六、一个粗糙的开始，就是好的开始
-
 
