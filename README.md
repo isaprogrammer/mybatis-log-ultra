@@ -24,6 +24,14 @@
 
 `距离插件发布上架才两周时间，这只是一个开始，如果你也觉得这是一个不错的想法，请留下您的使用体验和建议，衷心感谢！🙏🙏🙏🙏`
 
+`插件市场搜索：/tag:Paid Mybatis Log Ultra`
+
+<table>
+    <tr>
+        <td><img src="./picture/插件市场搜索.jpg" alt="插件市场搜索" width="360"></td>
+    </tr>
+</table>
+
 ## 二、要求
 
 <p>
