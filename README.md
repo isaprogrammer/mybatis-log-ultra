@@ -64,21 +64,21 @@
 ### 1、默认情况下，项目启动即自动拦截所有的@RestController注解的类
 <table>
     <tr>
-        <td><img src="./picture/增强@RestController注解的类.png" alt="增强@RestController注解的类" width="960"></td>
+        <td><img src="./picture/增强@RestController注解的类.png" alt="增强@RestController注解的类" width="480"></td>
     </tr>
 </table>
 
 ### 2、请求接口即可获取到完整可执行的SQL
 <table>
     <tr>
-        <td><img src="./picture/请求接口即可获取可执行SQL.png" alt="请求接口即可获取可执行SQL" width="960"></td>
+        <td><img src="./picture/请求接口即可获取可执行SQL.png" alt="请求接口即可获取可执行SQL" width="480"></td>
     </tr>
 </table>
 
 ### 3、快速的拷贝SQL语句
 <table>
     <tr>
-        <td><img src="./picture/复制SQL.jpg" alt="复制SQL" width="960"></td>
+        <td><img src="./picture/复制SQL.jpg" alt="复制SQL" width="480"></td>
     </tr>
 </table>
 
@@ -86,7 +86,7 @@
 
 <table>
     <tr>
-        <td><img src="./picture/增强这个接口.png" width="960" alt=""></td>
+        <td><img src="./picture/增强这个接口.png" width="480" alt=""></td>
     </tr>
 </table>
 
@@ -94,7 +94,7 @@
 
 <table>
     <tr>
-        <td><img src="./picture/带mapper注解的.jpg" width="960" alt=""></td>
+        <td><img src="./picture/带mapper注解的.jpg" width="480" alt=""></td>
     </tr>
 </table>
 
