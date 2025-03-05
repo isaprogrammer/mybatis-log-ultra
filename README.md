@@ -78,19 +78,19 @@
 ### 3、快速的拷贝SQL语句
 <table>
     <tr>
-        <td><img src="./picture/复制SQL.jpg" alt="复制SQL" width="720"></td>
+        <td><img src="./picture/拷贝SQL.jpg" alt="复制SQL" width="720"></td>
     </tr>
 </table>
 
-### 4、普通方法也是独立进行输出
+### 4、普通方法单独增强，单独输出日志
 
 <table>
     <tr>
-        <td><img src="./picture/增强这个接口.png" width="720" alt=""></td>
+        <td><img src="./picture/普通方法单独增强.jpg" width="720" alt=""></td>
     </tr>
 </table>
 
-### 5、@Mapper注解的接口也同样支持
+### 5、@Mapper注解的接口同样也是支持增强的，为特定的SQL开辟新窗口
 
 <table>
     <tr>
