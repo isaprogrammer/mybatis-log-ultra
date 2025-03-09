@@ -22,8 +22,6 @@
 
 `为什么是ultra？因为小米su7 ultra`
 
-`距离插件发布上架才两周时间，这只是一个开始，如果你也觉得这是一个不错的想法，请留下您的使用体验和建议，衷心感谢！🙏🙏🙏🙏`
-
 `插件市场下载：https://plugins.jetbrains.com/plugin/26550-mybatis-log-ultra`
 
 ## 二、演示
