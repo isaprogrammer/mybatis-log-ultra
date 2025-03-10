@@ -18,7 +18,7 @@
 
 ## 一、简介
 
-`提取SQL还是太繁琐了，需要配置、拼接、日志滚动太快，希望这款插件能为你节约点时间`
+`手动拼接SQL简直是浪费时间和精力`
 
 `为什么是ultra？因为小米su7 ultra`
 
@@ -61,40 +61,25 @@
 
 ## 五、已完成的功能点
 
-### 1、默认情况下，项目启动即自动拦截所有的@RestController注解的类
-<table>
-    <tr>
-        <td><img src="./picture/增强@RestController注解的类.png" alt="增强@RestController注解的类" width="720"></td>
-    </tr>
-</table>
-
-### 2、请求接口即可获取到完整可执行的SQL
+### 1、请求接口即可获取到完整可执行的SQL
 <table>
     <tr>
         <td><img src="./picture/请求接口即可获取可执行SQL.png" alt="请求接口即可获取可执行SQL" width="720"></td>
     </tr>
 </table>
 
-### 3、快速的拷贝SQL语句
+### 2、快速的拷贝SQL语句
 <table>
     <tr>
         <td><img src="./picture/拷贝SQL.jpg" alt="复制SQL" width="720"></td>
     </tr>
 </table>
 
-### 4、普通方法单独增强，单独输出日志
+### 3、普通方法单独增强，单独输出日志
 
 <table>
     <tr>
         <td><img src="./picture/普通方法单独增强.jpg" width="720" alt=""></td>
-    </tr>
-</table>
-
-### 5、@Mapper注解的接口同样也是支持增强的，为特定的SQL开辟新窗口
-
-<table>
-    <tr>
-        <td><img src="./picture/带mapper注解的.jpg" width="720" alt=""></td>
     </tr>
 </table>
 
