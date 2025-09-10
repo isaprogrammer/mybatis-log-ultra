@@ -23,15 +23,20 @@
 
 ## 二、解决你的痛点问题
 
-1、需要添加mybatis log的配置，只输出部分接口的SQL还需修改配置并重启
+1、无需配置
 
-2、Sql随日志同步滚动太快，难以选中，难以查找，难以拷贝
+2、按请求、关键字、函数三个维度精准筛选SQL语句
 
 ## 三、展示
 
 <table>
     <tr>
-        <td><img src="picture/演示.gif" alt="演示"></td>
+        <td><img src="picture/mybatis_log_ultra_0.gif" alt=""></td>
+        <td><img src="picture/mybatis_log_ultra_1.gif" alt=""></td>
+    </tr>
+    <tr>
+        <td><img src="picture/mybatis_log_ultra_2.gif" alt=""></td>
+        <td><img src="picture/mybatis_log_ultra_3.gif" alt=""></td>
     </tr>
 </table>
 
