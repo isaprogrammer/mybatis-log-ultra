@@ -32,10 +32,14 @@
 <table>
     <tr>
         <td><img src="picture/mybatis_log_ultra_0.gif" alt=""></td>
+    </tr>
+    <tr>
         <td><img src="picture/mybatis_log_ultra_1.gif" alt=""></td>
     </tr>
     <tr>
         <td><img src="picture/mybatis_log_ultra_2.gif" alt=""></td>
+    </tr>
+    <tr>
         <td><img src="picture/mybatis_log_ultra_3.gif" alt=""></td>
     </tr>
 </table>
